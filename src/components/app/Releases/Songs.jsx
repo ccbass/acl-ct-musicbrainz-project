@@ -1,5 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
+import { Link } from 'react-router-dom';
+import styles from './Releases.css';
 
 const Songs = ({ recordings, loading }) => { 
   return (
@@ -9,11 +11,14 @@ const Songs = ({ recordings, loading }) => {
           ?
           <h2>Loading...</h2>
           :
-          <ul>
+          <ul className={styles.ul}>
             {recordings.map(recording => (
-              <li key={recording.id}>
-                <p>{recording.title}</p>
-              </li>))}
+              <li key={recording.id} className={styles.list}>
+                <Link exact="true" activeclassname="selected" to={'/:artist/:release/:song'} className={styles.link}>
+                  <p>{recording.title}</p>
+                </Link>
+              </li>
+            ))}
           </ul>
       }
     </div>
