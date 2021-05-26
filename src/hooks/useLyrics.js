@@ -7,13 +7,16 @@ export const useLyrics = () => {
     const [loading, setLoading] = useState(true);
 
     const getLyrics = async (artist, song) => {
-        const lyrics = await fetch(
-            `https://api.lyrics.ovh/v1/${artist}/${song}`
-        );
-
-        const json = await lyrics.json();
-        const lyrArr = json.lyrics.split('\n');
-        return lyrArr;
+        try {
+            const lyrics = await fetch(
+                `https://api.lyrics.ovh/v1/${artist}/${song}`
+            );
+            const json = await lyrics.json();
+            const lyrArr = json.lyrics.split('\n');
+            return lyrArr;
+        } catch(error) {
+            return ['Lyrics cannot be found for this song.']; 
+        }
     };
     const firstLetterUppercase = (word) => {
         return word[0].toUpperCase() + word.slice(1);
