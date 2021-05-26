@@ -13,9 +13,7 @@ export default function App() {
             <Switch>
                 <Route exact path="/" component={SearchContainer}/> 
                 <Route path="/:artist" component={AlbumContainer}/> 
-                <Route path="/:artist/:release" component={}/> 
                 <Route path="/:artist/:release" component={AlbumSongs}/>
-
                 <Route
                     path="/:artist/:release/:song"
                     component={LyricContainer}
