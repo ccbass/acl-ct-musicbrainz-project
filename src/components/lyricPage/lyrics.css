@@ -1,0 +1,29 @@
+.lyricline {
+    margin: 0;
+}
+.lyricbox {
+    max-height: 500px;
+    width: 500px;
+    padding: 10px;
+    
+    overflow-y: scroll;
+    border: 1px solid black;
+    border-radius: 5px;
+
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 2px 2px 5px grey;
+    border-radius: 5px;
+    max-width: 600px;
+    margin: 30px auto;
+    padding: 50px;
+}
+.heading {
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
