@@ -25,7 +25,8 @@ function AlbumContainer() {
 
   return (
     <div>
-      <AlbumList album={albums} loading={loading}/>
+      {loading ? (<h1>LOADING...</h1>)
+      :(<AlbumList album={albums}/>)}
     </div>
   );
 }
