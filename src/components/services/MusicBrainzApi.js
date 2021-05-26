@@ -1,16 +1,19 @@
-export const getAlbums = async (artist) => {
+export const getAlbums = async (artist, offset) => {
     const res = await fetch(
-        `http://musicbrainz.org/ws/2/release?artist=${artist}&fmt=json`
+        `http://musicbrainz.org/ws/2/release?artist=${artist}&fmt=json&offset=${offset}`
     );
     const Albums = await res.json();
     console.log(Albums);
 
-    return Albums.releases.map((album) => ({
-        id: album.id,
-        title: album.title,
-        date: album.date,
-        quality: album.quality,
-    }));
+    return {
+        array: Albums.releases.map((album) => ({
+            id: album.id,
+            title: album.title,
+            date: album.date,
+            quality: album.quality,
+        })),
+        totalCount: Albums['release-count'],
+    };
 };
 
 export const fetchRecordings = async (release) => {
