@@ -36,8 +36,9 @@ function useArtistFetch(artist) {
         if(artist) {
             fetchArtists();
         }
-        if(artist !== prevArtist && artist) {
-            setOffset(0, () => fetchArtists());
+        if(artist !== prevArtist && artist){
+            setOffset(0);
+            fetchArtists();
         }
     }, [offSet, artist]);
 
