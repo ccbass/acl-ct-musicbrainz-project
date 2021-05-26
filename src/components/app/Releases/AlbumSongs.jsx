@@ -6,12 +6,12 @@ import styles from './Releases.css';
 const AlbumSongs = () => { 
     const [recordings, setRecordings] = useState([]);
     const [loading, setLoading] = useState(true);
-    const params = useParams();
+    const { release } = useParams();
 
-    const fetchRecordings = async () => { 
+    const fetchRecordings = async (release) => { 
       
-        const res = await fetch('http://musicbrainz.org/ws/2/recording?release=7d166a44-cfb5-4b08-aacb-6863bbe677d6&fmt=json');
-        // fetch(`http://musicbrainz.org/ws/2/recording?release=${params.id}&fmt=json`);
+        const res = await fetch(`http://musicbrainz.org/ws/2/recording?release=${release}&fmt=json`);
+        // fetch('http://musicbrainz.org/ws/2/recording?release=7d166a44-cfb5-4b08-aacb-6863bbe677d6&fmt=json');
 
         const recs = await res.json();
 
@@ -27,9 +27,9 @@ const AlbumSongs = () => {
     };
 
     useEffect(() => {
-        fetchRecordings().then(setRecordings)
+        fetchRecordings(release)
+            .then(setRecordings)
             .finally(() => setLoading(false));
-      
     }, []);
 
 
@@ -45,8 +45,5 @@ const AlbumSongs = () => {
     );
 };
 
-AlbumSongs.propTypes = { 
-
-};
 
 export default AlbumSongs;
