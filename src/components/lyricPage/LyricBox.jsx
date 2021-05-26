@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 import styles from './lyrics.css';
 
 const LyricBox = ({ lyricsArray, loading }) => {
-    if (loading)
+    if(loading)
         return (
             <img src="https://i.pinimg.com/originals/d7/a9/95/d7a995f34f372832860215bbe65f2cc1.gif" />
         );

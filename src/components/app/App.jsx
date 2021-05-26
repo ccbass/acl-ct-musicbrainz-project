@@ -9,13 +9,21 @@ import Header from '../Header';
 export default function App() {
     return (
         <Router>
-            <Header/>
+            <Header />
             <Switch>
-                <Route exact path="/" component={SearchContainer}/> 
-                <Route path="/:artist" component={AlbumContainer}/> 
-                <Route path="/:artist/:release" component={AlbumSongs}/>
+                <Route exact path="/" component={SearchContainer} />
                 <Route
-                    path="/:artist/:release/:song"
+                    exact
+                    path="/releases/:artist/:artistname"
+                    component={AlbumContainer}
+                />
+                <Route
+                    exact
+                    path="/songs/:artist/:artistname/:release"
+                    component={AlbumSongs}
+                />
+                <Route
+                    path="/lyrics/:artist/:song"
                     component={LyricContainer}
                 />
             </Switch>
