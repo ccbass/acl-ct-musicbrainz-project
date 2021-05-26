@@ -1,0 +1,53 @@
+
+.box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border: 2px black solid;
+  margin: 20px;
+  height: 450px;
+  width: 400px;
+  background-color: black;
+  color: white;
+  text-transform: uppercase;
+  text-decoration: none;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.big {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+ul {
+  text-decoration: none;
+  list-style: none;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+Link {
+  color: white;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+}
+
