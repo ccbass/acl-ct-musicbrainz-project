@@ -1,0 +1,41 @@
+.albumdiv { 
+    background-color: orchid;
+    align-items: center;
+}
+
+.ul { 
+    list-style: none;
+    text-align: center;
+    border: black 10px double;
+    border-radius: 2em;
+    width: 400px;
+    margin: auto;
+  
+}
+
+.list { 
+    
+
+}
+
+.link { 
+    text-decoration: wavy underline orange;
+    color: purple;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    /* margin-left: 0 auto; */
+}
+
+.link:hover { 
+    color: yellowgreen;
+    text-transform: uppercase;
+};
+
+
+.header { 
+    color: blue;
+};
+
+/* h2 { 
+    color: blue
+} */
