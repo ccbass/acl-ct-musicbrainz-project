@@ -1,21 +1,26 @@
 .albumdiv { 
-    background-color: orchid;
+  
     align-items: center;
 }
 
 .ul { 
-    list-style: none;
-    text-align: center;
-    border: black 10px double;
-    border-radius: 2em;
-    width: 400px;
+    list-style:lower-roman;
+    /* text-align: center; */
+    border: black 2px solid;
+    /* border-radius: 2em; */
+    width: fit-content; 
+    height: fit-content; 
     margin: auto;
-  
+    display: flex; 
+    flex-direction: column;
+    
+    
 }
 
 .list { 
-    
-
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: left;
 }
 
 .link { 
@@ -31,11 +36,3 @@
     text-transform: uppercase;
 };
 
-
-.header { 
-    color: blue;
-};
-
-/* h2 { 
-    color: blue
-} */

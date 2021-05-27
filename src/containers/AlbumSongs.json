@@ -1,0 +1,110 @@
+{
+    "recordings": [
+    {
+    "title": "Negative Creep",
+    "first-release-date": "1989-06-01",
+    "disambiguation": "",
+    "length": 175693,
+    "id": "06745db3-a2bc-4131-8a9d-0cbdc25b494a",
+    "video": false
+    },
+    {
+    "id": "0b3292f6-8f0d-4160-92d3-49348029a619",
+    "video": false,
+    "length": 162173,
+    "disambiguation": "",
+    "title": "School",
+    "first-release-date": "1989-06-01"
+    },
+    {
+    "disambiguation": "",
+    "first-release-date": "1989-06-01",
+    "title": "Love Buzz",
+    "id": "1adfecb7-875f-4203-b3b1-8e2e643f94a2",
+    "video": false,
+    "length": 215120
+    },
+    {
+    "length": 322240,
+    "video": false,
+    "id": "25bbbd76-5f48-4b37-9722-44a346c4f3a9",
+    "title": "Sifting",
+    "first-release-date": "1989-06-01",
+    "disambiguation": "Reciprocal Recording session, 1988‐01‐23 or 1988‐06"
+    },
+    {
+    "length": 174453,
+    "id": "2837e0d2-5ce9-44da-803e-797c835d672c",
+    "video": false,
+    "title": "Blew",
+    "first-release-date": "1989-06-01",
+    "disambiguation": ""
+    },
+    {
+    "video": false,
+    "id": "4cce1ee1-38e6-4ea0-8584-b6ebeb854d7d",
+    "length": 138026,
+    "disambiguation": "",
+    "title": "Floyd the Barber",
+    "first-release-date": "1989-06-01"
+    },
+    {
+    "length": 103800,
+    "video": false,
+    "id": "6011093f-704a-46b0-8941-ae2bee94d70a",
+    "first-release-date": "1989-06-01",
+    "title": "Downer",
+    "disambiguation": ""
+    },
+    {
+    "length": 245853,
+    "video": false,
+    "id": "67930d52-5e75-4c00-b36f-ee3c43bed160",
+    "first-release-date": "1989-06-01",
+    "title": "Paper Cuts",
+    "disambiguation": "Reciprocal Recording session, 1988‐01‐23 or 1988‐06"
+    },
+    {
+    "length": 203929,
+    "id": "6cd0083c-e4ce-4745-aaf0-704ab1de988a",
+    "video": false,
+    "title": "Mr. Moustache",
+    "first-release-date": "1989-06-01",
+    "disambiguation": ""
+    },
+    {
+    "length": 168293,
+    "id": "b2e623ea-378b-4479-bb75-fa202aacbfc9",
+    "video": false,
+    "first-release-date": "1989-06-01",
+    "title": "About a Girl",
+    "disambiguation": ""
+    },
+    {
+    "disambiguation": "",
+    "first-release-date": "1989-06-01",
+    "title": "Big Cheese",
+    "video": false,
+    "id": "c498c2ac-a571-412e-a26e-f37e86a1edda",
+    "length": 222160
+    },
+    {
+    "length": 182973,
+    "video": false,
+    "id": "c9972a41-2ae8-43f6-9822-ba2fec7e50d1",
+    "title": "Swap Meet",
+    "first-release-date": "1989-06-01",
+    "disambiguation": ""
+    },
+    {
+    "title": "Scoff",
+    "first-release-date": "1989-06-01",
+    "disambiguation": "",
+    "length": 250106,
+    "video": false,
+    "id": "dbecedb1-2a90-43fc-add4-ce4016676545"
+    }
+    ],
+    "recording-offset": 0,
+    "recording-count": 13
+    }
