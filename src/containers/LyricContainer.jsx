@@ -12,7 +12,11 @@ const LyricContainer = () => {
                 <span>{song}</span> by
                 <span> {firstLetterUppercase(artist)}</span>
             </header>
-            <LyricBox lyricsArray={lyrics} loading={loading} />
+            <LyricBox
+                lyricsArray={lyrics}
+                loading={loading}
+                
+            />
         </div>
     );
 };
