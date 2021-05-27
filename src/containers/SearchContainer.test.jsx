@@ -16,10 +16,10 @@ describe('CharListContainer container tests', () => {
         screen.getByText('Search for results:');
 
         // Input search term, and submit search
-        const artistInput = await screen.getByLabelText('Search For Artist');
+        const artistInput = await screen.getByRole('textbox');
         userEvent.type(artistInput, 'van halen');
   
-        const search = await screen.getByRole('button', { name: 'search!' });
+        const search = await screen.getByRole('button');
         userEvent.click(search);
 
         // // Wait for DOM to update and check if 10 artists on the page.

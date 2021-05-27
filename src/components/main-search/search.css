@@ -1,0 +1,7 @@
+.searchCont {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 20px;
+    
+}
