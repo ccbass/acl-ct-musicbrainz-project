@@ -1,0 +1,334 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LyricContainer behavior tests should render lyrics on page 1`] = `
+<div
+  class="lyricbox"
+  data-testid="lyricBox"
+>
+  <p
+    class="lyricline"
+  >
+    Baby you can roll, roll with us
+  </p>
+  <p
+    class="lyricline"
+  >
+    And I know that you know, you know bitches
+  </p>
+  <p
+    class="lyricline"
+  >
+    You should bring them hoes and bros with us
+  </p>
+  <p
+    class="lyricline"
+  >
+    And baby you can roll, maybe you can roll, roll with us yeah
+  </p>
+  <p
+    class="lyricline"
+  >
+    We can roll, baby yeah we can ride
+  </p>
+  <p
+    class="lyricline"
+  />
+  <p
+    class="lyricline"
+  >
+    I do this all the time, you living that trap life, yeah yeh yeh
+  </p>
+  <p
+    class="lyricline"
+  />
+  <p
+    class="lyricline"
+  >
+    You could come and party with my bitches, yeah
+  </p>
+  <p
+    class="lyricline"
+  />
+  <p
+    class="lyricline"
+  >
+    Nobody at your neck, not monogamous
+  </p>
+  <p
+    class="lyricline"
+  />
+  <p
+    class="lyricline"
+  >
+    This ain't gon' be over 'til you done with this
+  </p>
+  <p
+    class="lyricline"
+  />
+  <p
+    class="lyricline"
+  >
+    Never thought that you'd ever get used to this
+  </p>
+  <p
+    class="lyricline"
+  />
+  <p
+    class="lyricline"
+  >
+    Doin' stupid shit but you won't do this
+  </p>
+  <p
+    class="lyricline"
+  />
+  <p
+    class="lyricline"
+  >
+    (It's Doja Cat)
+  </p>
+  <p
+    class="lyricline"
+  />
+  <p
+    class="lyricline"
+  />
+  <p
+    class="lyricline"
+  />
+  <p
+    class="lyricline"
+  >
+    Baby you can roll, roll with us
+  </p>
+  <p
+    class="lyricline"
+  />
+  <p
+    class="lyricline"
+  >
+    And I know that you know, you know bitches
+  </p>
+  <p
+    class="lyricline"
+  />
+  <p
+    class="lyricline"
+  >
+    You should bring them hoes and bros with us
+  </p>
+  <p
+    class="lyricline"
+  />
+  <p
+    class="lyricline"
+  >
+    And baby you can roll, and you know you can roll, roll with us yeah
+  </p>
+  <p
+    class="lyricline"
+  />
+  <p
+    class="lyricline"
+  />
+  <p
+    class="lyricline"
+  />
+  <p
+    class="lyricline"
+  >
+    Roll, roll with us
+  </p>
+  <p
+    class="lyricline"
+  />
+  <p
+    class="lyricline"
+  >
+    And baby you can roll, roll with us
+  </p>
+  <p
+    class="lyricline"
+  />
+  <p
+    class="lyricline"
+  >
+    Roll with us, yeah, roll, roll with us
+  </p>
+  <p
+    class="lyricline"
+  />
+  <p
+    class="lyricline"
+  >
+    And baby you can roll, maybe you can roll, roll with us yeah
+  </p>
+  <p
+    class="lyricline"
+  />
+  <p
+    class="lyricline"
+  />
+  <p
+    class="lyricline"
+  />
+  <p
+    class="lyricline"
+  >
+    Leave all that drama out the door, that shit can wait
+  </p>
+  <p
+    class="lyricline"
+  />
+  <p
+    class="lyricline"
+  >
+    And boy you know you ain't just fly, 'cause I'm in LA
+  </p>
+  <p
+    class="lyricline"
+  />
+  <p
+    class="lyricline"
+  >
+    I know, you know, I know you and you know me
+  </p>
+  <p
+    class="lyricline"
+  />
+  <p
+    class="lyricline"
+  >
+    And we won't bring nobody that can infiltrate
+  </p>
+  <p
+    class="lyricline"
+  />
+  <p
+    class="lyricline"
+  >
+    Oh, baby it's okay, BYOB
+  </p>
+  <p
+    class="lyricline"
+  />
+  <p
+    class="lyricline"
+  >
+    Got a big ass Jeep, bringin' all them freaks, yeh
+  </p>
+  <p
+    class="lyricline"
+  />
+  <p
+    class="lyricline"
+  >
+    Come and smoke my tree, I'ma fill my drank
+  </p>
+  <p
+    class="lyricline"
+  />
+  <p
+    class="lyricline"
+  >
+    We done had a long ass week, ah yeah, yeah
+  </p>
+  <p
+    class="lyricline"
+  />
+  <p
+    class="lyricline"
+  />
+  <p
+    class="lyricline"
+  />
+  <p
+    class="lyricline"
+  >
+    Baby you can roll, roll with us
+  </p>
+  <p
+    class="lyricline"
+  />
+  <p
+    class="lyricline"
+  >
+    And I know that you know, you know bitches
+  </p>
+  <p
+    class="lyricline"
+  />
+  <p
+    class="lyricline"
+  >
+    You should bring them hoes and bros with us
+  </p>
+  <p
+    class="lyricline"
+  />
+  <p
+    class="lyricline"
+  >
+    And baby you can roll, and you know you can roll, roll with us yeah
+  </p>
+  <p
+    class="lyricline"
+  />
+  <p
+    class="lyricline"
+  />
+  <p
+    class="lyricline"
+  />
+  <p
+    class="lyricline"
+  >
+    Roll, roll with us
+  </p>
+  <p
+    class="lyricline"
+  />
+  <p
+    class="lyricline"
+  >
+    And baby you can roll, roll with us
+  </p>
+  <p
+    class="lyricline"
+  />
+  <p
+    class="lyricline"
+  >
+    Roll with us, yeah, roll, roll with us
+  </p>
+  <p
+    class="lyricline"
+  />
+  <p
+    class="lyricline"
+  >
+    And baby you can roll, maybe you can roll, roll with us yeah
+  </p>
+  <p
+    class="lyricline"
+  />
+  <p
+    class="lyricline"
+  />
+  <p
+    class="lyricline"
+  />
+  <p
+    class="lyricline"
+  >
+    Maybe you can roll, roll with us yeah
+  </p>
+  <p
+    class="lyricline"
+  />
+  <p
+    class="lyricline"
+  >
+    Maybe you can roll, roll with us yeah
+  </p>
+</div>
+`;

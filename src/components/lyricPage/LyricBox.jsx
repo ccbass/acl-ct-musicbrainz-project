@@ -3,14 +3,13 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import styles from './lyrics.css';
 
-const LyricBox = ({ lyricsArray, loading }) => {
+const LyricBox = ({ lyricsArray, loading, match }) => {
     if(loading)
         return (
             <img src="https://i.pinimg.com/originals/d7/a9/95/d7a995f34f372832860215bbe65f2cc1.gif" />
         );
-
     return (
-        <div className={styles.lyricbox}>
+        <div className={styles.lyricbox} data-testid="lyricBox">
             {lyricsArray.map((lyric, i) => {
                 return (
                     <p key={lyric + i} className={styles.lyricline}>
