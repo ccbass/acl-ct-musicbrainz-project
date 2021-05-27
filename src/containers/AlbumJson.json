@@ -1,0 +1,744 @@
+{
+  "release-count": 18,
+  "releases": [
+  {
+  "country": "JP",
+  "text-representation": {
+  "script": "Latn",
+  "language": "eng"
+  },
+  "packaging": "None",
+  "date": "2016-04-13",
+  "disambiguation": "Mastered for iTunes",
+  "title": "Have Dreams!",
+  "barcode": null,
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "cover-art-archive": {
+  "artwork": false,
+  "back": false,
+  "count": 0,
+  "front": false,
+  "darkened": false
+  },
+  "id": "052c8908-d488-4a1f-adfc-fb621a53cc43",
+  "status": "Official",
+  "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+  "asin": null,
+  "release-events": [
+  {
+  "area": {
+  "name": "Japan",
+  "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+  "type": null,
+  "iso-3166-1-codes": [
+  "JP"
+  ],
+  "type-id": null,
+  "disambiguation": "",
+  "sort-name": "Japan"
+  },
+  "date": "2016-04-13"
+  }
+  ],
+  "quality": "normal"
+  },
+  {
+  "packaging": null,
+  "text-representation": {
+  "script": "Latn",
+  "language": "jpn"
+  },
+  "country": "JP",
+  "cover-art-archive": {
+  "count": 0,
+  "artwork": false,
+  "back": false,
+  "darkened": false,
+  "front": false
+  },
+  "status-id": "41121bb9-3413-3818-8a9a-9742318349aa",
+  "title": "Type 2",
+  "barcode": "4942463536121",
+  "disambiguation": "",
+  "date": "2005-07-13",
+  "id": "15ac2fe9-7d68-47c6-87d5-35c865ff68f9",
+  "release-events": [
+  {
+  "area": {
+  "type": null,
+  "iso-3166-1-codes": [
+  "JP"
+  ],
+  "name": "Japan",
+  "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+  "type-id": null,
+  "sort-name": "Japan",
+  "disambiguation": ""
+  },
+  "date": "2005-07-13"
+  }
+  ],
+  "quality": "normal",
+  "asin": null,
+  "packaging-id": null,
+  "status": "Pseudo-Release"
+  },
+  {
+  "status-id": "41121bb9-3413-3818-8a9a-9742318349aa",
+  "cover-art-archive": {
+  "front": true,
+  "darkened": false,
+  "count": 1,
+  "back": false,
+  "artwork": true
+  },
+  "title": "Rhythm Tengoku Complete Music Collection",
+  "barcode": "4582298620710",
+  "date": "2008-10-15",
+  "disambiguation": "",
+  "text-representation": {
+  "language": "eng",
+  "script": "Latn"
+  },
+  "packaging": null,
+  "country": "JP",
+  "release-events": [
+  {
+  "area": {
+  "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+  "name": "Japan",
+  "iso-3166-1-codes": [
+  "JP"
+  ],
+  "type": null,
+  "sort-name": "Japan",
+  "disambiguation": "",
+  "type-id": null
+  },
+  "date": "2008-10-15"
+  }
+  ],
+  "quality": "normal",
+  "asin": null,
+  "packaging-id": null,
+  "status": "Pseudo-Release",
+  "id": "18117c17-6a68-44b5-840d-35f949b93264"
+  },
+  {
+  "status": "Official",
+  "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a",
+  "asin": "B000FJHESM",
+  "quality": "normal",
+  "release-events": [
+  {
+  "area": {
+  "type": null,
+  "iso-3166-1-codes": [
+  "JP"
+  ],
+  "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+  "name": "Japan",
+  "type-id": null,
+  "sort-name": "Japan",
+  "disambiguation": ""
+  },
+  "date": "2006-06-28"
+  }
+  ],
+  "id": "2c5fa34a-9833-4d91-9bd4-b42d1885fba6",
+  "date": "2006-06-28",
+  "disambiguation": "",
+  "title": "V3〜青春カバー〜",
+  "barcode": "4942463540920",
+  "cover-art-archive": {
+  "darkened": false,
+  "front": false,
+  "back": false,
+  "artwork": false,
+  "count": 0
+  },
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "country": "JP",
+  "packaging": "Jewel Case",
+  "text-representation": {
+  "language": "jpn",
+  "script": "Jpan"
+  }
+  },
+  {
+  "id": "3f891ad1-f08c-431f-9f09-9cf0304b9790",
+  "quality": "normal",
+  "release-events": [
+  {
+  "area": {
+  "type": null,
+  "iso-3166-1-codes": [
+  "JP"
+  ],
+  "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+  "name": "Japan",
+  "type-id": null,
+  "disambiguation": "",
+  "sort-name": "Japan"
+  },
+  "date": "1999-11-03"
+  }
+  ],
+  "asin": "B00005G3OH",
+  "packaging-id": null,
+  "status": "Official",
+  "packaging": null,
+  "text-representation": {
+  "language": "jpn",
+  "script": "Latn"
+  },
+  "country": "JP",
+  "cover-art-archive": {
+  "back": false,
+  "artwork": false,
+  "count": 0,
+  "darkened": false,
+  "front": false
+  },
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "title": "Touch me",
+  "barcode": "4942463503628",
+  "disambiguation": "",
+  "date": "1999-11-03"
+  },
+  {
+  "asin": null,
+  "release-events": [
+  {
+  "date": "2011-03-22",
+  "area": {
+  "type-id": null,
+  "disambiguation": "",
+  "sort-name": "Japan",
+  "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+  "name": "Japan",
+  "type": null,
+  "iso-3166-1-codes": [
+  "JP"
+  ]
+  }
+  }
+  ],
+  "quality": "normal",
+  "status": "Official",
+  "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+  "id": "59e551fd-5754-458a-ba87-6e3d409dc869",
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "cover-art-archive": {
+  "count": 0,
+  "artwork": false,
+  "back": false,
+  "darkened": false,
+  "front": false
+  },
+  "date": "2011-03-22",
+  "disambiguation": "",
+  "title": "Love is here〜希望の光〜",
+  "barcode": null,
+  "text-representation": {
+  "language": "jpn",
+  "script": "Jpan"
+  },
+  "packaging": "None",
+  "country": "JP"
+  },
+  {
+  "id": "798691a0-e902-4977-857b-3027860e04df",
+  "release-events": [
+  {
+  "area": {
+  "name": "Japan",
+  "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+  "type": null,
+  "iso-3166-1-codes": [
+  "JP"
+  ],
+  "type-id": null,
+  "disambiguation": "",
+  "sort-name": "Japan"
+  },
+  "date": "2004-02-18"
+  }
+  ],
+  "quality": "normal",
+  "asin": null,
+  "packaging-id": null,
+  "status": "Pseudo-Release",
+  "text-representation": {
+  "script": "Latn",
+  "language": "jpn"
+  },
+  "packaging": null,
+  "country": "JP",
+  "status-id": "41121bb9-3413-3818-8a9a-9742318349aa",
+  "cover-art-archive": {
+  "front": false,
+  "darkened": false,
+  "back": false,
+  "artwork": false,
+  "count": 0
+  },
+  "title": "TAKE 1",
+  "barcode": "4942463526627",
+  "date": "2004-02-18",
+  "disambiguation": ""
+  },
+  {
+  "title": "LOVE 〜Destiny〜 / LOVE 〜since1999〜",
+  "barcode": "4988064203093",
+  "date": "1999-04-14",
+  "disambiguation": "",
+  "cover-art-archive": {
+  "artwork": true,
+  "back": true,
+  "count": 3,
+  "front": true,
+  "darkened": false
+  },
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "country": "JP",
+  "packaging": null,
+  "text-representation": {
+  "language": "eng",
+  "script": "Latn"
+  },
+  "packaging-id": null,
+  "status": "Official",
+  "release-events": [
+  {
+  "area": {
+  "type-id": null,
+  "sort-name": "Japan",
+  "disambiguation": "",
+  "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+  "name": "Japan",
+  "type": null,
+  "iso-3166-1-codes": [
+  "JP"
+  ]
+  },
+  "date": "1999-04-14"
+  }
+  ],
+  "quality": "high",
+  "asin": "B00005ECWP",
+  "id": "83d4aeb8-3275-4167-88a7-41849baf8f71"
+  },
+  {
+  "id": "92b741f2-e6a9-4f01-97e8-70784ffcbdac",
+  "asin": null,
+  "release-events": [
+  {
+  "date": "2010-12-29",
+  "area": {
+  "iso-3166-1-codes": [
+  "JP"
+  ],
+  "type": null,
+  "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+  "name": "Japan",
+  "disambiguation": "",
+  "sort-name": "Japan",
+  "type-id": null
+  }
+  }
+  ],
+  "quality": "normal",
+  "status": "Official",
+  "packaging-id": null,
+  "text-representation": {
+  "script": "Jpan",
+  "language": "jpn"
+  },
+  "packaging": null,
+  "country": "JP",
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "cover-art-archive": {
+  "front": false,
+  "darkened": false,
+  "back": false,
+  "artwork": false,
+  "count": 0
+  },
+  "date": "2010-12-29",
+  "disambiguation": "",
+  "barcode": null,
+  "title": "To You"
+  },
+  {
+  "title": "しょっぱいね",
+  "barcode": "4942463590420",
+  "disambiguation": "",
+  "date": "2012-09-26",
+  "cover-art-archive": {
+  "front": true,
+  "darkened": false,
+  "count": 5,
+  "artwork": true,
+  "back": false
+  },
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "country": "JP",
+  "packaging": null,
+  "text-representation": {
+  "language": "jpn",
+  "script": "Jpan"
+  },
+  "packaging-id": null,
+  "status": "Official",
+  "quality": "normal",
+  "release-events": [
+  {
+  "area": {
+  "type-id": null,
+  "sort-name": "Japan",
+  "disambiguation": "",
+  "name": "Japan",
+  "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+  "type": null,
+  "iso-3166-1-codes": [
+  "JP"
+  ]
+  },
+  "date": "2012-09-26"
+  }
+  ],
+  "asin": "B008OJ7SAY",
+  "id": "9a9489a0-8918-4675-94ee-f10e45e19c77"
+  },
+  {
+  "text-representation": {
+  "script": "Jpan",
+  "language": "jpn"
+  },
+  "packaging": "Jewel Case",
+  "country": "JP",
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "cover-art-archive": {
+  "front": false,
+  "darkened": false,
+  "artwork": false,
+  "back": false,
+  "count": 0
+  },
+  "date": "2006-06-28",
+  "disambiguation": "",
+  "title": "V3〜青春カバー〜",
+  "barcode": "4942463541125",
+  "id": "9f92e563-6918-3e06-bf6e-5c9409f5fb08",
+  "asin": "B000FJHESW",
+  "quality": "normal",
+  "release-events": [
+  {
+  "date": "2006-06-28",
+  "area": {
+  "name": "Japan",
+  "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+  "iso-3166-1-codes": [
+  "JP"
+  ],
+  "type": null,
+  "sort-name": "Japan",
+  "disambiguation": "",
+  "type-id": null
+  }
+  }
+  ],
+  "status": "Official",
+  "packaging-id": "ec27701a-4a22-37f4-bfac-6616e0f9750a"
+  },
+  {
+  "date": "2016-04-20",
+  "disambiguation": "",
+  "barcode": null,
+  "title": "Have Dreams!",
+  "cover-art-archive": {
+  "front": false,
+  "darkened": false,
+  "count": 0,
+  "artwork": false,
+  "back": false
+  },
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "country": "JP",
+  "packaging": "None",
+  "text-representation": {
+  "script": "Latn",
+  "language": "eng"
+  },
+  "status": "Official",
+  "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+  "asin": null,
+  "quality": "normal",
+  "release-events": [
+  {
+  "area": {
+  "type": null,
+  "iso-3166-1-codes": [
+  "JP"
+  ],
+  "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+  "name": "Japan",
+  "type-id": null,
+  "sort-name": "Japan",
+  "disambiguation": ""
+  },
+  "date": "2016-04-20"
+  }
+  ],
+  "id": "a56d1452-76e5-4e2b-82a2-14d31abf3091"
+  },
+  {
+  "disambiguation": "",
+  "date": "2000-12-06",
+  "barcode": "4942463508326",
+  "title": "A Hard Day's Night",
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "cover-art-archive": {
+  "artwork": false,
+  "back": false,
+  "count": 0,
+  "darkened": false,
+  "front": false
+  },
+  "country": "JP",
+  "text-representation": {
+  "script": "Latn",
+  "language": "eng"
+  },
+  "packaging": null,
+  "status": "Official",
+  "packaging-id": null,
+  "asin": "B00005HQ8X",
+  "quality": "normal",
+  "release-events": [
+  {
+  "date": "2000-12-06",
+  "area": {
+  "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+  "name": "Japan",
+  "iso-3166-1-codes": [
+  "JP"
+  ],
+  "type": null,
+  "sort-name": "Japan",
+  "disambiguation": "",
+  "type-id": null
+  }
+  }
+  ],
+  "id": "a6db3b6b-0ea4-40c9-812f-92749bdcf6e5"
+  },
+  {
+  "text-representation": {
+  "language": "eng",
+  "script": "Latn"
+  },
+  "packaging": "None",
+  "country": "JP",
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "cover-art-archive": {
+  "back": false,
+  "artwork": false,
+  "count": 0,
+  "darkened": false,
+  "front": false
+  },
+  "date": "2016-04-15",
+  "disambiguation": "24bit/96kHz",
+  "barcode": null,
+  "title": "Have Dreams!",
+  "id": "a97eda27-cc2e-46dd-ab43-43949c2e2dc6",
+  "asin": null,
+  "release-events": [
+  {
+  "area": {
+  "name": "Japan",
+  "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+  "iso-3166-1-codes": [
+  "JP"
+  ],
+  "type": null,
+  "sort-name": "Japan",
+  "disambiguation": "",
+  "type-id": null
+  },
+  "date": "2016-04-15"
+  }
+  ],
+  "quality": "normal",
+  "status": "Official",
+  "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b"
+  },
+  {
+  "cover-art-archive": {
+  "back": false,
+  "artwork": false,
+  "count": 0,
+  "darkened": false,
+  "front": false
+  },
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "barcode": "4942463526627",
+  "title": "TAKE 1",
+  "disambiguation": "",
+  "date": "2004-02-18",
+  "packaging": null,
+  "text-representation": {
+  "language": "jpn",
+  "script": "Jpan"
+  },
+  "country": "JP",
+  "release-events": [
+  {
+  "area": {
+  "disambiguation": "",
+  "sort-name": "Japan",
+  "type-id": null,
+  "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+  "name": "Japan",
+  "iso-3166-1-codes": [
+  "JP"
+  ],
+  "type": null
+  },
+  "date": "2004-02-18"
+  }
+  ],
+  "quality": "normal",
+  "asin": "B000197KWG",
+  "packaging-id": null,
+  "status": "Official",
+  "id": "aa228eff-36b6-482f-9640-0900a6c0c4b1"
+  },
+  {
+  "text-representation": {
+  "script": "Jpan",
+  "language": "jpn"
+  },
+  "packaging": null,
+  "country": "JP",
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "cover-art-archive": {
+  "darkened": false,
+  "front": false,
+  "artwork": false,
+  "back": false,
+  "count": 0
+  },
+  "disambiguation": "",
+  "date": "2005-07-13",
+  "title": "タイプ2",
+  "barcode": "4942463536121",
+  "id": "ad3c3bb1-b47c-4e0b-b146-04bc8a108106",
+  "asin": "B0009J8GE4",
+  "release-events": [
+  {
+  "date": "2005-07-13",
+  "area": {
+  "type-id": null,
+  "sort-name": "Japan",
+  "disambiguation": "",
+  "type": null,
+  "iso-3166-1-codes": [
+  "JP"
+  ],
+  "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+  "name": "Japan"
+  }
+  }
+  ],
+  "quality": "normal",
+  "status": "Official",
+  "packaging-id": null
+  },
+  {
+  "release-events": [
+  {
+  "area": {
+  "name": "Japan",
+  "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+  "iso-3166-1-codes": [
+  "JP"
+  ],
+  "type": null,
+  "sort-name": "Japan",
+  "disambiguation": "",
+  "type-id": null
+  },
+  "date": "1999-04-28"
+  }
+  ],
+  "quality": "normal",
+  "asin": "B00005G3O7",
+  "packaging-id": null,
+  "status": "Official",
+  "id": "b53b83d3-2f2f-4b6d-b9a1-5ec98f9934cf",
+  "cover-art-archive": {
+  "count": 0,
+  "back": false,
+  "artwork": false,
+  "darkened": false,
+  "front": false
+  },
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "title": "LOVE～抱き合って～",
+  "barcode": "4942463502027",
+  "disambiguation": "",
+  "date": "1999-04-28",
+  "packaging": null,
+  "text-representation": {
+  "script": "Jpan",
+  "language": "jpn"
+  },
+  "country": "JP"
+  },
+  {
+  "id": "cfb2dacb-db31-4ed3-a5d7-08eac927c75f",
+  "asin": null,
+  "quality": "normal",
+  "release-events": [
+  {
+  "date": "2008-05-02",
+  "area": {
+  "type-id": null,
+  "disambiguation": "",
+  "sort-name": "Japan",
+  "type": null,
+  "iso-3166-1-codes": [
+  "JP"
+  ],
+  "name": "Japan",
+  "id": "2db42837-c832-3c27-b4a3-08198f75693c"
+  }
+  }
+  ],
+  "status": "Official",
+  "packaging-id": null,
+  "text-representation": {
+  "language": "jpn",
+  "script": "Jpan"
+  },
+  "packaging": null,
+  "country": "JP",
+  "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+  "cover-art-archive": {
+  "darkened": false,
+  "front": false,
+  "artwork": false,
+  "back": false,
+  "count": 0
+  },
+  "date": "2008-05-02",
+  "disambiguation": "",
+  "title": "リゾナント ブルー",
+  "barcode": null
+  }
+  ],
+  "release-offset": 0
+  }
