@@ -19,7 +19,7 @@ const AlbumSongs = () => {
     return (
         <div className={styles.albumdiv}>
             <div className={styles.header}>
-                <h2>Recordings</h2>
+                <h2 style={{ textAlign: 'center' }}>Recordings</h2>
             </div>
             <Songs recordings={recordings} loading={loading} />
         </div>

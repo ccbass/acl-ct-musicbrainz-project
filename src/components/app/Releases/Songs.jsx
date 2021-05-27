@@ -11,7 +11,7 @@ const Songs = ({ recordings, loading }) => {
             {loading ? (
                 <h2>Loading...</h2>
             ) : (
-                <ul className={styles.ul}>
+                <ul className={styles.ul} aria-label="releases">
                     {recordings.map((recording) => (
                         <li key={recording.id} className={styles.list}>
                             <Link
@@ -19,6 +19,7 @@ const Songs = ({ recordings, loading }) => {
                                 activeclassname="selected"
                                 to={`/lyrics/${artistname}/${recording.title}`}
                                 className={styles.link}
+                                aria-label="to-lyrics"
                             >
                                 <p>{recording.title}</p>
                             </Link>

@@ -1,0 +1,204 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing for AlbumSongs Container should render a list of album releases and route to a lyrics page 1`] = `
+<ul
+  aria-label="releases"
+  class="ul"
+>
+  <li
+    class="list"
+  >
+    <a
+      activeclassname="selected"
+      aria-label="to-lyrics"
+      class="link"
+      exact="true"
+      href="/lyrics/undefined/Negative Creep"
+    >
+      <p>
+        Negative Creep
+      </p>
+    </a>
+  </li>
+  <li
+    class="list"
+  >
+    <a
+      activeclassname="selected"
+      aria-label="to-lyrics"
+      class="link"
+      exact="true"
+      href="/lyrics/undefined/School"
+    >
+      <p>
+        School
+      </p>
+    </a>
+  </li>
+  <li
+    class="list"
+  >
+    <a
+      activeclassname="selected"
+      aria-label="to-lyrics"
+      class="link"
+      exact="true"
+      href="/lyrics/undefined/Love Buzz"
+    >
+      <p>
+        Love Buzz
+      </p>
+    </a>
+  </li>
+  <li
+    class="list"
+  >
+    <a
+      activeclassname="selected"
+      aria-label="to-lyrics"
+      class="link"
+      exact="true"
+      href="/lyrics/undefined/Sifting"
+    >
+      <p>
+        Sifting
+      </p>
+    </a>
+  </li>
+  <li
+    class="list"
+  >
+    <a
+      activeclassname="selected"
+      aria-label="to-lyrics"
+      class="link"
+      exact="true"
+      href="/lyrics/undefined/Blew"
+    >
+      <p>
+        Blew
+      </p>
+    </a>
+  </li>
+  <li
+    class="list"
+  >
+    <a
+      activeclassname="selected"
+      aria-label="to-lyrics"
+      class="link"
+      exact="true"
+      href="/lyrics/undefined/Floyd the Barber"
+    >
+      <p>
+        Floyd the Barber
+      </p>
+    </a>
+  </li>
+  <li
+    class="list"
+  >
+    <a
+      activeclassname="selected"
+      aria-label="to-lyrics"
+      class="link"
+      exact="true"
+      href="/lyrics/undefined/Downer"
+    >
+      <p>
+        Downer
+      </p>
+    </a>
+  </li>
+  <li
+    class="list"
+  >
+    <a
+      activeclassname="selected"
+      aria-label="to-lyrics"
+      class="link"
+      exact="true"
+      href="/lyrics/undefined/Paper Cuts"
+    >
+      <p>
+        Paper Cuts
+      </p>
+    </a>
+  </li>
+  <li
+    class="list"
+  >
+    <a
+      activeclassname="selected"
+      aria-label="to-lyrics"
+      class="link"
+      exact="true"
+      href="/lyrics/undefined/Mr. Moustache"
+    >
+      <p>
+        Mr. Moustache
+      </p>
+    </a>
+  </li>
+  <li
+    class="list"
+  >
+    <a
+      activeclassname="selected"
+      aria-label="to-lyrics"
+      class="link"
+      exact="true"
+      href="/lyrics/undefined/About a Girl"
+    >
+      <p>
+        About a Girl
+      </p>
+    </a>
+  </li>
+  <li
+    class="list"
+  >
+    <a
+      activeclassname="selected"
+      aria-label="to-lyrics"
+      class="link"
+      exact="true"
+      href="/lyrics/undefined/Big Cheese"
+    >
+      <p>
+        Big Cheese
+      </p>
+    </a>
+  </li>
+  <li
+    class="list"
+  >
+    <a
+      activeclassname="selected"
+      aria-label="to-lyrics"
+      class="link"
+      exact="true"
+      href="/lyrics/undefined/Swap Meet"
+    >
+      <p>
+        Swap Meet
+      </p>
+    </a>
+  </li>
+  <li
+    class="list"
+  >
+    <a
+      activeclassname="selected"
+      aria-label="to-lyrics"
+      class="link"
+      exact="true"
+      href="/lyrics/undefined/Scoff"
+    >
+      <p>
+        Scoff
+      </p>
+    </a>
+  </li>
+</ul>
+`;
