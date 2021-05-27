@@ -3,6 +3,7 @@ import SearchBar from '../components/main-search/SearchBar';
 import SearchControls from '../components/main-search/SearchControls';
 import SearchList from '../components/main-search/SearchList';
 import useArtistFetch from '../hooks/FetchArtists';
+import styles from '../components/main-search/search.css';
 
 function SearchContainer() {
     const [artist, setArtist] = useState(null);
@@ -18,7 +19,7 @@ function SearchContainer() {
     };
 
     return (
-        <div>
+        <div className={styles.searchCont}>
             <SearchBar
                 handleArtistChange={handleArtistChange}
                 handleArtistSubmit={handleArtistSubmit}
