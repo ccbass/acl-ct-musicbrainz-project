@@ -7,7 +7,7 @@ const AlbumList = ({ album }) => {
     return (
         <div className={style.big}>
             <div className={style.list}>
-                <ul aria-label="album">
+                <ul aria-label="album" data-testid="albumList">
                     {album.map((album) => (
                         <li key={album.id}>
                             <AlbumItem

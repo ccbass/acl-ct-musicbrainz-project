@@ -3,7 +3,6 @@ export const getAlbums = async (artist, offset) => {
         `http://musicbrainz.org/ws/2/release?artist=${artist}&fmt=json&offset=${offset}`
     );
     const Albums = await res.json();
-    console.log(Albums);
 
     return {
         array: Albums.releases.map((album) => ({
